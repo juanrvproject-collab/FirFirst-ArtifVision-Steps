@@ -5,4 +5,4 @@ My first project of Artificial Vision in python usion OpenCV
 In this code I used an OpenCV library to create a face detection system in video by applying a pre-trained Haar Cascade classifier. It iterates through the video frames, converting them to grayscale for work with them.
 
 <img width="1528" height="892" alt="image" src="https://github.com/user-attachments/assets/fc4a4db5-4ca5-4668-96f5-e44c50e86a10" />
-<img width="1501" height="878" alt="image" src="https://github.com/user-attachments/assets/c6ec25b7-2f9d-4184-adf9-c11d152149cd" />
+
